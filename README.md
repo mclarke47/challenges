@@ -7,4 +7,4 @@ various programming challenges in various languages
 | ----- | -------------- |
 | 1  	| Calculate Pi   |
 | 2  	| Fibonacci      |
-| 3  	| RSS feed reader|
+| 3  	| CMake for beginners|
