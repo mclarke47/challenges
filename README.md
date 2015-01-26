@@ -13,6 +13,6 @@ various programming challenges in various languages
 
 | Week 	| Project 		 | Done 		 |
 | ----- | -------------- | -------------- |
-| 1 | Newton's method is to approximate Sqrt | Not Done |
+| 1 | Newton's method to approximate Sqrt | Not Done |
 
 
