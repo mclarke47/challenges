@@ -14,5 +14,6 @@ various programming challenges in various languages
 | Week 	| Project 		 | Done 		 |
 | ----- | -------------- | -------------- |
 | 1 | Newton's method to approximate Sqrt | Done |
+| 1 | Luhn's Alogrithm | Done |
 
 
